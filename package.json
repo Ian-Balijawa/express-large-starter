@@ -158,7 +158,7 @@
     "@tsed/openspec": "^7.10.0",
     "@tsed/platform-express": "^7.10.0",
     "@tsed/prisma": "^7.10.0",
-    "@tsed/schema": "^7.10.0",
+    "@tsed/schema": "^7.23.0",
     "@tsed/swagger": "^7.10.0",
     "ajv": "^8.12.0",
     "argon2": "^0.30.3",
